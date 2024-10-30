@@ -38,4 +38,4 @@ Thank you for visiting! I’m excited to connect with fellow developers and coll
 
 ---
 
-**[Your Name]**
+**Joshua Otomo**
