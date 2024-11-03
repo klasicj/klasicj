@@ -16,8 +16,8 @@ Welcome to my GitHub! I'm a passionate developer focused on creating impactful p
 
 ## 🛠 Skills
 
-- **Languages:** Python, JavaScript,
-- **Frameworks:** React, Vue.js
+- **Languages:** Python, JavaScript, TypeScript
+- **Frameworks:** React, TypeScript
 - **Tools:** Git, Docker, PostMan
 - **Interests:** Web Development, Data Science, Machine Learning
 
